@@ -27,7 +27,7 @@ Unpack can be used as a command-line tool to detect the type of packer, check fo
 ### Installation
 To install Unpack, you can use the following command:
 ```sh
-go get github.com/orca-zhang/unpack
+go get github.com/orcastor/unpack
 ```
 
 ### Detect Packer
